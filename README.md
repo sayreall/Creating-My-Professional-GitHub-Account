@@ -1,56 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Cyril!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,2f81f7&height=250&section=header&text=Hello,%20I'm%20Cyril!&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=white&desc=Welcome%20to%20my%20coding%20space&descSize=20&descAlignY=60" width="100%"/>
+</div>
+
+<div align="center">
   
-  <h1>Cyril San Antonio</h1>
-  <h3>Web Developer | BSIT Student | Open Source Enthusiast</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Web+Developer;BSIT+Student;Open+Source+Enthusiast;Learning+Full-Stack" alt="Typing SVG" />
+  </a>
 
   <br/>
 
   <a href="mailto:cyrilsanantonio19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  </div>
+  <a href="https://github.com/sayreall">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+</div>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a **Web Developer** with a strong interest in building interactive and user-friendly applications. Currently a **BSIT student** at **Laguna State Polytechnic University**, I’m passionate about learning modern web technologies and turning ideas into working projects.
 
-- 🌱 **I'm Learning:** Flask, Python (Backend) & JavaScript (Frontend)
-- 🔭 **Current Journey:** Building small web apps to strengthen my portfolio
-- 🥅 **Goal:** Mastering Full-Stack Development & Cloud Basics
-
----
-
-### 🛠 Tech & Tools
 <div align="center">
+  I’m a **Web Developer** passionate about crafting interactive and user-friendly applications. Currently pursuing my **BSIT** at **Laguna State Polytechnic University**, I bridge the gap between creative ideas and functional code.
+</div>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br />
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        🌱 <b>Currently Learning:</b> Flask, Python (Backend) & JS<br/>
+        🔭 <b>Working On:</b> Strengthening my portfolio<br/>
+        🥅 <b>2025 Goal:</b> Mastering Full-Stack & Cloud Basics<br/>
+        ⚡ <b>Fun Fact:</b> I love open source!
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayreall&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayreall&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,flask,postgres,firebase,git,github,vscode&perline=6" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayreall&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayreall&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayreall&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <br/>
-  <i>💡 “Every line of code is a step closer to becoming a better developer.”</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&isb=true" alt="Quote" />
 </div>
